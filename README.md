@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Cursando Engenharia da Computação no IFSP - Campus Birigui
+
+
+### - Bruno Correa Rodruiguez Valenzuela
+
 <!--
 **brunovalenz/brunovalenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
